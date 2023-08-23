@@ -4,7 +4,7 @@ import './App.css';
 import logo from "./assets/instagram.png"
 
 function App() {
-  const [login,setlogin]=useState(true)
+  const [login,setlogin] = useState(true)
 
   const loginSwitch = () => {
     setlogin(!login)
