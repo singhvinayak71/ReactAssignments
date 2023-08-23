@@ -1,0 +1,15 @@
+.app{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100vw;
+  height: 100vh;
+  flex-direction: column;
+}
+button{
+  border: none;
+  background-color: rgb(17, 179, 74);
+  padding: 20px;
+  cursor: pointer;
+  margin: 10px;
+ }
